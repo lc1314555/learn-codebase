@@ -2,7 +2,7 @@
 
 `learn-codebase` is a Codex skill for studying unfamiliar code repositories and writing focused learning notes.
 
-它适合在你想快速理解一个项目、梳理模块关系、追踪核心流程、生成中文学习笔记时使用。默认会在目标项目根目录生成或更新 `CODEBASE_LEARNING.md`。
+它适合在你想快速理解一个项目、梳理模块关系、追踪核心流程、生成学习笔记时使用。默认会在目标项目根目录生成或更新 `CODEBASE_LEARNING.md`。
 
 ## What It Does
 
