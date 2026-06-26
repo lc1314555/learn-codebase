@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Codebase"
+  short_description: "Create focused repo learning notes"
+  default_prompt: "Use $learn-codebase to study this repository and write CODEBASE_LEARNING.md."
